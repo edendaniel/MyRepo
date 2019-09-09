@@ -2,4 +2,4 @@ readme
 
 
 
-goto [level-1](file://./level-1/readme.md)
+goto [level-1](./level-1/readme.md)
